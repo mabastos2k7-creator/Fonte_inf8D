@@ -12,6 +12,11 @@
 
 <img width="1560" height="245" alt="Captura de tela 2026-10-02 213013" src="https://github.com/user-attachments/assets/0b190c68-cbb1-4599-805d-328bc9dc7e0b" />
 
+## 𝙶𝚁𝙰́𝙵𝙸𝙲𝙾𝚂 𝙴 𝙿𝙻𝙰𝙽𝙸𝙻𝙷𝙰𝚂 ♦
+
+𝙽𝚊 𝚊𝚞𝚕𝚊, 𝚏𝚘𝚛𝚊𝚖 𝚝𝚛𝚊𝚋𝚊𝚕𝚑𝚊𝚍𝚘𝚜 𝚌𝚘𝚗𝚌𝚎𝚒𝚝𝚘𝚜 𝚍𝚎 𝚙𝚕𝚊𝚗𝚒𝚕𝚑𝚊𝚜 𝚎 𝚐𝚛𝚊́𝚏𝚒𝚌𝚘𝚜, 𝚞𝚝𝚒𝚕𝚒𝚣𝚊𝚗𝚍𝚘 𝚘 𝙴𝚡𝚌𝚎𝚕 𝚙𝚊𝚛𝚊 𝚘𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚛, 𝚊𝚗𝚊𝚕𝚒𝚜𝚊𝚛 𝚎 𝚛𝚎𝚙𝚛𝚎𝚜𝚎𝚗𝚝𝚊𝚛 𝚍𝚊𝚍𝚘𝚜 𝚍𝚎 𝚏𝚘𝚛𝚖𝚊 𝚟𝚒𝚜𝚞𝚊𝚕.
+
+<img width="1379" height="606" alt="Captura de tela 2026-10-02 213831" src="https://github.com/user-attachments/assets/000712ec-ff29-437c-b782-a35e12ebc163" />
 
 
 
