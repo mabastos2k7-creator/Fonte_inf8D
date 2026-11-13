@@ -26,13 +26,13 @@
 
 <img width="1434" height="803" alt="Captura de tela 2026-09-17 211435" src="https://github.com/user-attachments/assets/14a2bf24-bd9f-44a3-93f3-df04c690d862" />
 
-## DADOS ABERTOS E POWER BI 
+## DADOS ABERTOS E POWER BI ♕
 
 𝙵𝚘𝚛𝚊𝚖 𝚞𝚝𝚒𝚕𝚒𝚣𝚊𝚍𝚘𝚜 𝚍𝚊𝚍𝚘𝚜 𝚊𝚋𝚎𝚛𝚝𝚘𝚜 𝚛𝚎𝚕𝚊𝚌𝚒𝚘𝚗𝚊𝚍𝚘𝚜 𝚊𝚘 𝚜𝚎𝚝𝚘𝚛 𝚊𝚐𝚛𝚘𝚙𝚎𝚌𝚞𝚊́𝚛𝚒𝚘 𝚛𝚎𝚝𝚒𝚛𝚊𝚍𝚘𝚜 𝚍𝚘 𝚙𝚘𝚛𝚝𝚊𝚕 𝚍𝚊𝚍𝚘𝚜 𝚊𝚋𝚎𝚛𝚝𝚘 𝚍𝚎 𝚂𝚊̃𝚘 𝙿𝚊𝚞𝚕𝚘, 𝚙𝚘𝚜𝚝𝚎𝚛𝚒𝚘𝚛𝚖𝚎𝚗𝚝𝚎 𝚘𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚍𝚘𝚜 𝚎 𝚊𝚗𝚊𝚕𝚒𝚜𝚊𝚍𝚘𝚜 𝚗𝚘 𝙿𝚘𝚠𝚎𝚛 𝙱𝙸 𝚙𝚊𝚛𝚊 𝚎𝚕𝚊𝚋𝚘𝚛𝚊𝚌̧𝚊̃𝚘 𝚍𝚎 𝚟𝚒𝚜𝚞𝚊𝚕𝚒𝚣𝚊𝚌̧𝚘̃𝚎𝚜 𝚎 𝚐𝚛𝚊́𝚏𝚒𝚌𝚘𝚜.
 
 <img width="1456" height="715" alt="Captura de tela 2026-10-02 223734" src="https://github.com/user-attachments/assets/b372d3a2-2109-4242-9a4a-0c862114b4d2" />
 
-## ANÁLISE DE DADOS COM FUNÇÃO LINEAR NO POWER BI
+## ANÁLISE DE DADOS COM FUNÇÃO LINEAR NO POWER BI ♔
 
 𝙽𝚎𝚜𝚜𝚊 𝚊𝚝𝚒𝚟𝚒𝚍𝚊𝚍𝚎, 𝚘 𝚝𝚛𝚊𝚋𝚊𝚕𝚑𝚘 𝚏𝚘𝚒 𝚛𝚎𝚊𝚕𝚒𝚣𝚊𝚍𝚘 𝚞𝚜𝚊𝚗𝚍𝚘 𝚘𝚜 𝚍𝚊𝚍𝚘𝚜 𝚊𝚋𝚎𝚛𝚝𝚘𝚜 𝚍𝚊 "𝙺𝚊𝚐𝚐𝚕𝚎", 𝚕𝚘𝚐𝚘 𝚏𝚘𝚛𝚊𝚖 𝚝𝚛𝚊𝚝𝚊𝚍𝚘𝚜, 𝚘𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚍𝚘𝚜 𝚎 𝚙𝚘𝚜𝚝𝚘𝚜 𝚎𝚖 𝚞𝚖𝚊 𝚙𝚕𝚊𝚗𝚒𝚕𝚑𝚊 𝚍𝚎 𝚏𝚞𝚗𝚌̧𝚊̃𝚘 𝚕𝚒𝚗𝚎𝚊𝚛. 
 
