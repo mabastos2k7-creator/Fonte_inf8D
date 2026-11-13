@@ -32,3 +32,8 @@
 
 <img width="1456" height="715" alt="Captura de tela 2026-10-02 223734" src="https://github.com/user-attachments/assets/b372d3a2-2109-4242-9a4a-0c862114b4d2" />
 
+## ANÁLISE DE DADOS COM FUNÇÃO LINEAR NO POWER BI
+
+𝙽𝚎𝚜𝚜𝚊 𝚊𝚝𝚒𝚟𝚒𝚍𝚊𝚍𝚎, 𝚘 𝚝𝚛𝚊𝚋𝚊𝚕𝚑𝚘 𝚏𝚘𝚒 𝚛𝚎𝚊𝚕𝚒𝚣𝚊𝚍𝚘 𝚞𝚜𝚊𝚗𝚍𝚘 𝚘𝚜 𝚍𝚊𝚍𝚘𝚜 𝚊𝚋𝚎𝚛𝚝𝚘𝚜 𝚍𝚊 "𝙺𝚊𝚐𝚐𝚕𝚎", 𝚕𝚘𝚐𝚘 𝚏𝚘𝚛𝚊𝚖 𝚝𝚛𝚊𝚝𝚊𝚍𝚘𝚜, 𝚘𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚍𝚘𝚜 𝚎 𝚙𝚘𝚜𝚝𝚘𝚜 𝚎𝚖 𝚞𝚖𝚊 𝚙𝚕𝚊𝚗𝚒𝚕𝚑𝚊 𝚍𝚎 𝚏𝚞𝚗𝚌̧𝚊̃𝚘 𝚕𝚒𝚗𝚎𝚊𝚛. 
+
+<img width="1075" height="565" alt="bcc35687-e2bc-47b2-9871-3676b2034524" src="https://github.com/user-attachments/assets/d29c9577-e3b5-42be-a4e6-55b47757be2d" />
