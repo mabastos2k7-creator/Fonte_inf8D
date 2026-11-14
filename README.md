@@ -37,3 +37,12 @@
 𝙽𝚎𝚜𝚜𝚊 𝚊𝚝𝚒𝚟𝚒𝚍𝚊𝚍𝚎, 𝚘 𝚝𝚛𝚊𝚋𝚊𝚕𝚑𝚘 𝚏𝚘𝚒 𝚛𝚎𝚊𝚕𝚒𝚣𝚊𝚍𝚘 𝚞𝚜𝚊𝚗𝚍𝚘 𝚘𝚜 𝚍𝚊𝚍𝚘𝚜 𝚊𝚋𝚎𝚛𝚝𝚘𝚜 𝚍𝚊 "𝙺𝚊𝚐𝚐𝚕𝚎", 𝚕𝚘𝚐𝚘 𝚏𝚘𝚛𝚊𝚖 𝚝𝚛𝚊𝚝𝚊𝚍𝚘𝚜, 𝚘𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚍𝚘𝚜 𝚎 𝚙𝚘𝚜𝚝𝚘𝚜 𝚎𝚖 𝚞𝚖𝚊 𝚙𝚕𝚊𝚗𝚒𝚕𝚑𝚊 𝚍𝚎 𝚏𝚞𝚗𝚌̧𝚊̃𝚘 𝚕𝚒𝚗𝚎𝚊𝚛. 
 
 <img width="1075" height="565" alt="bcc35687-e2bc-47b2-9871-3676b2034524" src="https://github.com/user-attachments/assets/d29c9577-e3b5-42be-a4e6-55b47757be2d" />
+
+
+## DADOS TRANSFORMADOS EM FÓRMULA LINEAR ♦
+
+𝙽𝚊 𝚊𝚝𝚒𝚟𝚒𝚍𝚊𝚍𝚎 𝚊𝚟𝚊𝚕𝚒𝚊𝚝𝚒𝚟𝚊 𝚙𝚛𝚘𝚙𝚘𝚜𝚝𝚊, 𝚘𝚜 𝚍𝚊𝚍𝚘𝚜 𝚏𝚘𝚛𝚊𝚖 𝚒𝚗𝚜𝚎𝚛𝚒𝚍𝚘𝚜 𝚗𝚘 𝙼𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝 𝙴𝚡𝚌𝚎𝚕 𝚎, 𝚙𝚘𝚜𝚝𝚎𝚛𝚒𝚘𝚛𝚖𝚎𝚗𝚝𝚎, 𝚏𝚘𝚒 𝚎𝚕𝚊𝚋𝚘𝚛𝚊𝚍𝚘 𝚞𝚖 𝚐𝚛𝚊́𝚏𝚒𝚌𝚘 𝚍𝚎 𝚍𝚒𝚜𝚙𝚎𝚛𝚜𝚊̃𝚘 𝚙𝚊𝚛𝚊 𝚊 𝚊𝚗𝚊́𝚕𝚒𝚜𝚎 𝚍𝚊 𝚛𝚎𝚕𝚊𝚌̧𝚊̃𝚘 𝚎𝚗𝚝𝚛𝚎 𝚊𝚜 𝚟𝚊𝚛𝚒𝚊́𝚟𝚎𝚒𝚜 𝚎𝚜𝚝𝚞𝚍𝚊𝚍𝚊𝚜.
+
+<img width="685" height="422" alt="Grafico linear da idade de homem e mulheres" src="https://github.com/user-attachments/assets/545a0faa-bc4c-40e0-930c-a6e3f9ece603" />
+
+
